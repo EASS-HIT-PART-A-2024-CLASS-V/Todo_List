@@ -25,7 +25,3 @@ This project is a Todo List application with a FastAPI backend and a Streamlit f
 ```bash
 git clone https://github.com/EASS-HIT-PART-A-2024-CLASS-V/Todo_List.git
 cd Todo_List
-
-
-
-
