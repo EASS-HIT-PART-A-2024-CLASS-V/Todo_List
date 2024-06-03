@@ -44,7 +44,7 @@ cd Todo_List</code></pre>
 
 <h3>Running the Frontend with Docker</h3>
 <p>Build the Docker image:</p>
-<pre><code>docker build -t todo-frontend -f frontend.Dockerfile .
+<pre><code>docker build -t todo-frontend -f frontend/Dockerfile ./frontend
 </code></pre>
 <p>Run the Docker container:</p>
 <pre><code>docker run -p 8501:8501 todo-frontend
