@@ -26,10 +26,6 @@ This project is a Todo List application with a FastAPI backend and a Streamlit f
 git clone https://github.com/EASS-HIT-PART-A-2024-CLASS-V/Todo_List.git
 cd Todo_List
 
-### Clone the Repository
-### Running the Backend with Docker
-## 1. Build the Docker image:
- ```bash
-docker build -t todo-backend -f backend.Dockerfile .
+
 
 
