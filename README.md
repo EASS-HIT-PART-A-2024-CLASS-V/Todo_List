@@ -33,7 +33,7 @@ cd Todo_List</code></pre>
 
 <h3>Running the Backend with Docker</h3>
 <p>Build the Docker image:</p>
-<pre><code>docker build -t todo-backend -f backend.Dockerfile .
+<pre><code>docker build -t todo-backend -f backend/Dockerfile ./backend
 </code></pre>
 <p>Run the Docker container:</p>
 <pre><code>docker run -p 8000:8000 todo-backend
