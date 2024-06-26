@@ -63,5 +63,8 @@ cd Todo_List</code></pre>
 
 <p>The API documentation is automatically generated and available at <a href="http://localhost:8000/docs">http://localhost:8000/docs</a> when the backend server is running.</p>
 
+<p>Video:</p>
+
+
 </body>
 </html>
