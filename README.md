@@ -64,7 +64,7 @@ cd Todo_List</code></pre>
 <p>The API documentation is automatically generated and available at <a href="http://localhost:8000/docs">http://localhost:8000/docs</a> when the backend server is running.</p>
 
 <h2 id="video">Video</h2>
-<p>Watch a video demonstration of the Todo List Application:</p>
+
 <p><a href="https://www.youtube.com/watch?v=bslfw6Pjm7k">https://www.youtube.com/watch?v=bslfw6Pjm7k</a></p>
 
 </body>
