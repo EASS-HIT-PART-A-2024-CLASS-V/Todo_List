@@ -63,6 +63,26 @@ cd Todo_List</code></pre>
 
 <p>The API documentation is automatically generated and available at <a href="http://localhost:8000/docs">http://localhost:8000/docs</a> when the backend server is running.</p>
 
+<h2 id="project-structure">Project Structure</h2>
+
+<pre><code>
+Todo_List
+├── backend
+│ ├── db.py
+│ ├── dockerfile
+│ ├── main.py
+│ ├── model.py
+│ ├── requirements.txt
+│ └── testing.py
+├── frontend
+│ ├── dockerfile
+│ ├── main.py
+│ ├── model.py
+│ └── requirements.txt
+├── docker-compose.yml
+└── README.md
+</code></pre>
+
 <h2 id="video">Video</h2>
 
 <p><a href="https://www.youtube.com/watch?v=bslfw6Pjm7k">https://www.youtube.com/watch?v=bslfw6Pjm7k</a></p>
